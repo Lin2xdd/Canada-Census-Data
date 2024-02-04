@@ -1,3 +1,7 @@
+# Source
+https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/fig/index-eng.cfm?ID=F1_1
+
+
 # The structure
 ![image](https://github.com/Lin2xdd/Canada-Census-Data/assets/72551770/f02c4d15-ba1a-4c8c-985a-39d368ff3dfc)
 
